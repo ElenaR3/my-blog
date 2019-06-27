@@ -54,7 +54,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Motherland"
-  url = "categories/Motherland/"
+  url = "/categories/Motherland/"
   weight = 99
 
 [[menu.main]]
