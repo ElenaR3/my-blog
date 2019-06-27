@@ -54,12 +54,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "Motherland"
-  url = "https://elenar3.github.io/my-blog/categories/Motherland/"
+  url = "https://elenar3.github.io/Motherland/"
   weight = 99
 
 [[menu.main]]
   name = "Friends"
-  url = "https://elenar3.github.io/my-blog/Friends/"
+  url = "https://elenar3.github.io/my-blog/catgories/Friends/"
   weight = 95
 
   [[menu.main]]
