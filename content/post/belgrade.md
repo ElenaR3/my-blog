@@ -2,7 +2,7 @@
 title: "Walking the streets of Belgrade"
 date: 2019-06-27T02:05:04+02:00
 draft: false
-image: "resources/_gen/images/belgrad.jpg"
+image: "https://elenar3.github.io/myblog/resources/_gen/images/belgrad.jpg"
 tags: ["trip","friends","backpacking"]
 categories: ["World"]
 ---
@@ -23,7 +23,7 @@ Anyway, I will say just what I really liked. So, we first visited Kalemegdan, wh
   The whole day passed very quickly. Unfortunately, we didn't manage to visit Ada Ciganlija and Zemun. But, there has to be something to come back for.
   Now, I am just going to leave this amazing sunset here..
   
-  {{< figure src="https://elenar3.github.io/my-blog/static/images/sunset.jpg" title="" >}}
+  {{< figure src="https://elenar3.github.io/my-blog/resources/_gen/images/sunset.jpg" title="" >}}
    
 
 
