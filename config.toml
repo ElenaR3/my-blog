@@ -49,12 +49,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "World"
-  url = "https://elenar3.github.io/my-blog/categories/World/"
+  url = "/categories/World/"
   weight = 100
 
 [[menu.main]]
   name = "Motherland"
-  url = "https://elenar3.github.io/Motherland/"
+  url = "categories/Motherland/"
   weight = 99
 
 [[menu.main]]
@@ -64,5 +64,5 @@ paginate        = 6
 
   [[menu.main]]
       name = "Interesting"
-      url = "https://elenar3.github.io/my-blog/categories/Interesting/"
+      url = "/categories/Interesting/"
       weight = 95
