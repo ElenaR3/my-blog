@@ -1,0 +1,67 @@
+baseurl         = "https://storytellingwithElena.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "storytelling-with-elena"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Elena's Perspective"
+  subtitle    = "Take a look at the world"
+
+  cover       = "resources/_gen/images/eye.jpg"
+  description = "Amazingly amazing"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+
+  fbName = "elenaridova"
+  githubName = "ElenaR3"
+
+
+  logo = ""
+  orgName = "Elena Ridova © Copyright"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Elena Ridova"
+  authorAvatar = "resources/_gen/images/elenablogger.jpg"
+  authorLocation = "Skopje, MK"
+ authorWebsite = ""
+  authorDescription = "Coder&Developer in the making"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+
+[[menu.main]]
+  name = "World"
+  url = "/categories/World/"
+  weight = 100
+
+[[menu.main]]
+  name = "Motherland"
+  url = "/categories/Motherland/"
+  weight = 99
+
+[[menu.main]]
+  name = "Friends"
+  url = "/categories/Friends/"
+  weight = 95
+
+  [[menu.main]]
+      name = "Interesting"
+      url = "/categories/Interesting/"
+      weight = 95
