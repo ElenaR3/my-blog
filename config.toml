@@ -1,4 +1,5 @@
 baseurl         = "https://storytellingwithElena.com"
+publishDir= "docs"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "storytelling-with-elena"

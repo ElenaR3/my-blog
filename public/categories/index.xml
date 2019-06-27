@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://storytellingwithElena.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Jun 2019 02:05:04 +0200</lastBuildDate>
+    
+	<atom:link href="https://storytellingwithElena.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>World</title>
+      <link>https://storytellingwithElena.com/categories/world/</link>
+      <pubDate>Thu, 27 Jun 2019 02:05:04 +0200</pubDate>
+      
+      <guid>https://storytellingwithElena.com/categories/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>https://storytellingwithElena.com/categories/friends/</link>
+      <pubDate>Wed, 26 Jun 2019 21:58:16 +0200</pubDate>
+      
+      <guid>https://storytellingwithElena.com/categories/friends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motherland</title>
+      <link>https://storytellingwithElena.com/categories/motherland/</link>
+      <pubDate>Wed, 26 Jun 2019 21:58:16 +0200</pubDate>
+      
+      <guid>https://storytellingwithElena.com/categories/motherland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interesting</title>
+      <link>https://storytellingwithElena.com/categories/interesting/</link>
+      <pubDate>Mon, 24 Jun 2019 10:24:13 +0200</pubDate>
+      
+      <guid>https://storytellingwithElena.com/categories/interesting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
