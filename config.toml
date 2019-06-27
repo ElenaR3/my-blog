@@ -1,4 +1,4 @@
-baseurl         = "https://ElenaR3.github.io/storytelling-with-elena.com"
+baseurl         = "https://elenar3.github.io/my-blog/"
 publishDir= "docs"
 theme           = "casper-two"
 languageCode    = "en-US"
