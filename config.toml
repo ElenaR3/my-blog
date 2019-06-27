@@ -49,20 +49,20 @@ paginate        = 6
 
 [[menu.main]]
   name = "World"
-  url = "/categories/World/"
+  url = "https://elenar3.github.io/categories/World/"
   weight = 100
 
 [[menu.main]]
   name = "Motherland"
-  url = "/categories/Motherland/"
+  url = "https://elenar3.github.io/categories/Motherland/"
   weight = 99
 
 [[menu.main]]
   name = "Friends"
-  url = "/categories/Friends/"
+  url = "https://elenar3.github.io/categories/Friends/"
   weight = 95
 
   [[menu.main]]
       name = "Interesting"
-      url = "/categories/Interesting/"
+      url = "https://elenar3.github.io/categories/Interesting/"
       weight = 95
