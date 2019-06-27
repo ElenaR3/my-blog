@@ -4,7 +4,7 @@ title: "A Bosnian tale"
 date: 2019-06-26T21:22:42+02:00
 
 draft: false
-image: "resources/_gen/images/kastel.jpg"
+image: "https://elenar3.github.io/my-blog/images/kastel.jpg"
 categories: ["World", "Friends"]
 tags: ["erasmuslife","travelling","diversity"]
 ---

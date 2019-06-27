@@ -2,7 +2,7 @@
 title: "First things first"
 date: 2019-06-13T22:15:47+02:00
 draft: false
-image: "resources/_gen/images/deer.jpg"
+image: "https://elenar3.github.io/my-blog/images/deer.jpg"
 tags: ["education", "travelling","personality"]
 categories: ["Interesting"]
 ---

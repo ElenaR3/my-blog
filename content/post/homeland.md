@@ -3,7 +3,7 @@ title: "Magical Matka Canyon"
 date: 2019-06-23T11:02:47+02:00
 draft: false
 categories: ["Motherland"]
-image: "resources/_gen/images/matka1.jpg"
+image: "https://elenar3.github.io/my-blog/images/matka1.jpg"
 tags: ["nature", "tourism"]
 ---
 

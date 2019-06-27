@@ -2,7 +2,7 @@
 title: "Pehchevo and Dracevo exploring Kavadarci"
 date: 2019-06-23T21:52:08+02:00
 draft: false
-image: "resources/_gen/images/sandric.jpg"
+image: "https://elenar3.github.io/my-blog/images/sandric.jpg"
 tags: ["trip", "friends", "adventure"]
 categories: ["Friends", "Motherland"]
 ---

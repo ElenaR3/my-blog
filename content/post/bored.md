@@ -3,7 +3,7 @@
 title: "Life hacks on how to kill boredom while waiting for a bus/flight "
 date: 2019-06-24T10:24:13+02:00 
 draft: false
-image: "resources/_gen/images/cat.jpeg"
+image: "https://elenar3.github.io/my-blog/images/cat.jpeg"
 categories: ["Interesting"]
 tags: ["fun","lifehacks","trip"]
 ---

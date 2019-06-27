@@ -2,7 +2,7 @@
 title: "Ohrid - the real Macedonian pearl"
 date: 2019-06-26T21:58:16+02:00  
 draft: false
-image: "resources/_gen/images/lake.jpg"
+image: "https://elenar3.github.io/my-blog/images/lake.jpg"
 categories: ["Motherland", "Friends"]
 tags: ["WorldHeritage", "lake"]
 ---

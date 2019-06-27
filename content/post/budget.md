@@ -2,7 +2,7 @@
 title: "5 useful travel hacks"
 date: 2019-06-14T01:58:17+02:00
 draft: false
-image: "resources/_gen/images/proba.jpg"
+image: "https://elenar3.github.io/my-blog/images/proba.jpg"
 tags: ["travelling", "world", "money"]
 categories: ["World","Interesting"]
 ---

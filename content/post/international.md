@@ -2,7 +2,7 @@
 title: "Why having international friends is so cool"
 date: 2019-06-26T21:05:32+02:00
 draft: false
-image: "resources/_gen/images/21.jpg"
+image: "https://elenar3.github.io/my-blog/images/21.jpg"
 categories: ["World", "Friends"]
 tags: ["diversity", "world","travelling"]
 ---
