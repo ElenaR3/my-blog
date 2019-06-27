@@ -59,7 +59,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Friends"
-  url = "https://elenar3.github.io/my-blog/categories/Friends/"
+  url = "https://elenar3.github.io/my-blog/Friends/"
   weight = 95
 
   [[menu.main]]
