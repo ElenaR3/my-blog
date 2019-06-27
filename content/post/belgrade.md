@@ -18,7 +18,7 @@ Anyway, I will say just what I really liked. So, we first visited Kalemegdan, wh
  
  Furthermore, I was surprised to see that there are some cool and unordinary bars at the old part of the city.
  
- {{< figure src="https://elenar3.github.io/my-blog/images/art1.jpg" title="" >}}
+ {{< figure src="https://elenar3.github.io/my-blog/resources/_gen/images/art1.jpg" title="" >}}
   
   The whole day passed very quickly. Unfortunately, we didn't manage to visit Ada Ciganlija and Zemun. But, there has to be something to come back for.
   Now, I am just going to leave this amazing sunset here..
