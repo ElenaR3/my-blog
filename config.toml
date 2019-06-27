@@ -10,7 +10,7 @@ paginate        = 6
   title       = "Elena's Perspective"
   subtitle    = "Take a look at the world"
 
-  cover       = "images/eye.jpg"
+  cover       = "Hugo/mysite/content/resources/_gen/images/eye.jpg"
   description = "Amazingly amazing"
   metaDescription = ""
   googleAnalytics = ""
