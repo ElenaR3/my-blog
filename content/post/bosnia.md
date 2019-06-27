@@ -19,7 +19,7 @@ The first sight that comes to mind at the moment is the Kastel- a fortress that 
 (see the main picture)
 
 I won't go too much into these sights, since you have these kind of stuff all over the Internet, BUT I will share with with you the amazing ice cream that costs ONLY 1 marka (30 denars)!
-{{< figure src="/images/ice1.jpg" title="" >}}
+{{< figure src="https://elenar3.github.io/my-blog/images/ice1.jpg" title="" >}}
 
 While this ice cream is all colorful and lively, I can't say that 
 is the case with Bosnia as a country. I guess it is not that easy 
