@@ -10,7 +10,7 @@ paginate        = 6
   title       = "Elena's Perspective"
   subtitle    = "Take a look at the world"
 
-  cover       = "https://elenar3.github.io/my-blog/Hugo/mysite/content/resources/_gen/images/eye.JPG"
+  cover       = "static/images/eye.JPG"
   description = "Amazingly amazing"
   metaDescription = ""
   googleAnalytics = ""

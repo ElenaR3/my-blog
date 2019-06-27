@@ -12,7 +12,7 @@ So, Belgrade is a city that my grandfather has always told me about. I think he 
 I don't wanna judge too fast, because I had one day only, which is not enough to see everything. Plus, there is too much construction work being done in the moment in the city, which probably contributed to my whole picture. 
 
 Anyway, I will say just what I really liked. So, we first visited Kalemegdan, which is really nice (probably even nicer if the weather isn't that hot), as you can see on the picture.
-{{< figure src="/images/bc.jpg" title="" >}}
+{{< figure src="static/images/bc.jpg" title="" >}}
  
  Walking the stret Knez Mihailova was also a must, as it is the most famous one. What I really admired was the street art and hearing music all around me when walking on the streets. For me that really means a city with a certain culture.
  
@@ -23,7 +23,7 @@ Anyway, I will say just what I really liked. So, we first visited Kalemegdan, wh
   The whole day passed very quickly. Unfortunately, we didn't manage to visit Ada Ciganlija and Zemun. But, there has to be something to come back for.
   Now, I am just going to leave this amazing sunset here..
   
-  {{< figure src="/images/sunset.jpg" title="" >}}
+  {{< figure src="static/images/sunset.jpg" title="" >}}
    
 
 
