@@ -21,6 +21,7 @@ paginate        = 6
   fbName = "elenaridova"
   githubName = "ElenaR3"
 
+ showSupport= true
 
   logo = ""
   orgName = "Elena Ridova © Copyright"
