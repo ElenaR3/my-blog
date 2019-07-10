@@ -4,18 +4,23 @@
   
   <url>
     <loc>https://elenar3.github.io/my-blog/</loc>
-    <lastmod>2019-06-27T02:05:04+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://elenar3.github.io/my-blog/categories/</loc>
-    <lastmod>2019-06-27T02:05:04+02:00</lastmod>
+    <lastmod>2019-07-10T20:27:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://elenar3.github.io/my-blog/post/</loc>
+    <lastmod>2019-07-10T20:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elenar3.github.io/my-blog/struga/</loc>
+    <lastmod>2019-07-10T20:27:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elenar3.github.io/my-blog/categories/</loc>
     <lastmod>2019-06-27T02:05:04+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -178,11 +183,6 @@
     <loc>https://elenar3.github.io/my-blog/tags/money/</loc>
     <lastmod>2019-06-14T01:58:17+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://elenar3.github.io/my-blog/main/</loc>
-    <lastmod>2019-06-14T00:58:12+02:00</lastmod>
   </url>
   
   <url>

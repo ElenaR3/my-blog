@@ -6,10 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Jun 2019 02:05:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 20:27:57 +0200</lastBuildDate>
     
 	<atom:link href="https://elenar3.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Struga</title>
+      <link>https://elenar3.github.io/my-blog/struga/</link>
+      <pubDate>Wed, 10 Jul 2019 20:27:57 +0200</pubDate>
+      
+      <guid>https://elenar3.github.io/my-blog/struga/</guid>
+      <description>hdhddhdhdhd jjsjjdjdd</description>
+    </item>
     
     <item>
       <title>Walking the streets of Belgrade</title>
@@ -92,15 +101,6 @@ Anyway, a week ago they came to visit me and my other friend Filip, in our homet
       <guid>https://elenar3.github.io/my-blog/5-useful-travel-hacks/</guid>
       <description>Stay in hostels. This one is pretty obvious but it cannot be overstated just how much more wallet-friendly budget accommodation options like hostels are compared with hotels, resorts and rental homes. Not only are you getting lower prices (some hostel beds are literally just a couple of dollars per night), but you’re getting the authentic backpacker atmosphere, and memories to last a lifetime.
  Souvenirs are overrated. Seriously! Instead of bringing back a suitcase full of touristy paraphernalia, why not focus on collecting memories and experiences instead of material things.</description>
-    </item>
-    
-    <item>
-      <title>Main</title>
-      <link>https://elenar3.github.io/my-blog/main/</link>
-      <pubDate>Fri, 14 Jun 2019 00:58:12 +0200</pubDate>
-      
-      <guid>https://elenar3.github.io/my-blog/main/</guid>
-      <description>{{subscribe_form form_class=&amp;ldquo;gh-signin&amp;rdquo; input_class=&amp;ldquo;gh-input&amp;rdquo; button_class=&amp;ldquo;btn btn-blue btn-block&amp;rdquo; placeholder=&amp;ldquo;Your email address&amp;rdquo; autofocus=&amp;ldquo;true&amp;rdquo; }}</description>
     </item>
     
     <item>
